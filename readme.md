@@ -1,6 +1,6 @@
 # About this Repository... 📖
 
-## This repo holds some files 📂. In jupyter notebook, I am trying to solve some familier problems about IPL. 
+## This repo contains some files 📂.In the Jupyter Notebook, I’m solving some familiar problems related to the IPL. 🏏 
 
 ### Here are some basic problems which is I solved. 
 **Part One :**
