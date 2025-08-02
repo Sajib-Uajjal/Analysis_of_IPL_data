@@ -25,3 +25,7 @@
 
     3.  Height score in every IPL season.
     
+
+# Pivot_table
+
+1. How many sixes  were hit in each over by each team?
